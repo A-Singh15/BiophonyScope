@@ -748,8 +748,6 @@ In summary, we were able to quickly train a detector with a modest number of sou
 
 [Conservation Metrics](https://www.conservationmetrics.com) (CMI) is dedicated improving biodiversity conservation through better monitoring. They provide a global customer base with services that facilitate evidence-based approaches to wildlife conservation and management. Specifically, they combine cutting-edge remote sensing technology, machine learning techniques, sophisticated statistics, and extensive expertise to provide scalable solutions to ecological monitoring challenges. Their solutions provide customers with the information they need to prioritize conservation investments, implement management actions, and measure outcomes in rigorous and cost-effective ways.
 
-This work was completed by [Abram Fleishman](https://conservationmetrics.com/about-us/), [Chris Eberly](https://ceberly.github.io/about/), [David Klein](https://www.linkedin.com/in/david-j-klein-5167172), and [Matthew McKown](https://conservationmetrics.com/about-us/).
-
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
