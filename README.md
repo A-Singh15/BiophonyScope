@@ -1,4 +1,4 @@
-## BiophonyScope: Accurate Bioacoustic Species Detection from Small Numbers of Training Clips Using the Biophony Model
+## BirdsEye BiophonyScope: Accurate Bioacoustic Species Detection from Small Numbers of Training Clips Using the Biophony Model
 <br>
 <div style="width: 400px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Araripe_Manakin_%281%29.jpg" width="850px" />
